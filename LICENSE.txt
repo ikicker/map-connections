@@ -1,0 +1,57 @@
+Copyright (c) 2026 Michael Corley
+All rights reserved.
+Software: Mac Connection Map (the "Software")
+1. Ownership
+The Software is licensed, not sold. Michael Corley retains all
+right, title, and interest in the Software, including all copyrights
+and other intellectual property rights.
+2. Grant of license
+Subject to your payment of any applicable fees and to this license,
+you are granted a non-exclusive, non-transferable, non-sublicensable
+license to install and use the Software on computers you own or
+control, for your own personal or internal business purposes.
+3. Restrictions
+You may not:
+  a. copy the Software except for one backup copy;
+  b. distribute, publish, rent, lease, lend, sell, or sublicense it;
+  c. make it available on a network for others to download or use,
+     except on machines covered by this license;
+  d. remove copyright or license notices;
+  e. reverse engineer, decompile, or modify the Software, except
+     to the extent that applicable law forbids this restriction;
+  f. use the Software to provide a competing paid service that is
+     primarily the same functionality.
+4. No open-source grant
+This license is proprietary. It is not an MIT, BSD, Apache, GPL,
+or other open-source license. No rights are granted except those
+expressly stated above.
+5. Payment
+If you obtained a paid copy, the license is effective only after
+cleared payment. Unpaid, leaked, or pirated copies confer no license.
+6. Term
+This license lasts until terminated. It ends automatically if you
+breach it. On termination you must delete all copies of the Software.
+7. Disclaimer of warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. YOU USE IT AT YOUR OWN RISK.
+8. Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING
+FROM USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES. THE AUTHOR'S TOTAL LIABILITY SHALL NOT EXCEED THE
+AMOUNT YOU PAID FOR THE SOFTWARE, OR TEN US DOLLARS (US $10) IF
+YOU PAID NOTHING.
+9. Privacy / network lookups
+The Software may send IP addresses to third-party geolocation
+services to display locations. Those services have their own terms.
+The author does not guarantee accuracy of location data.
+10. Governing law
+This license is governed by the laws of Connecticut, United States,
+excluding conflict-of-law rules.
+11. Entire agreement
+This is the entire agreement for the Software. If a court finds
+any part unenforceable, the rest still applies.
+For permission beyond this license, contact: github@sigmadatascience.com
