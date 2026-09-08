@@ -8,4 +8,6 @@ To run:
 sudo python3 ~/Desktop/mac_connections_map.py
 ```
 
+After you know what you are looking at you can kill the process ID causing the problem.
+
 ![alt text](https://github.com/ikicker/map-connections/blob/main/Screen%20Shot.png?raw=true)
