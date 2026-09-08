@@ -21,6 +21,7 @@ You may not:
      to the extent that applicable law forbids this restriction;
   f. use the Software to provide a competing paid service that is
      primarily the same functionality.
+  g. use this for a 'clean room,' or use a copy of this to go to AI / LLM
 4. No open-source grant
 This license is proprietary. It is not an MIT, BSD, Apache, GPL,
 or other open-source license. No rights are granted except those
