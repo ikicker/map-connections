@@ -1,5 +1,7 @@
 # map-connections
 OSx Mac - map connections python script in terminal
+- It's fast
+- It runs in terminal
 
 To run:
 ```
