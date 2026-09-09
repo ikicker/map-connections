@@ -2,6 +2,7 @@
 OSx Mac - map connections python script in terminal
 - It's fast
 - It runs in terminal
+- Useful as a privacy audit tool
 
 To run:
 ```
